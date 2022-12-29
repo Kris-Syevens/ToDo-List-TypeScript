@@ -2,7 +2,7 @@
   "name": "todo-list-typescript",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://kris-syevens.github.io/ToDo-List-TypeScript",
+  "homepage": "https://kris-syevens.github.io/ToDo-List-TypeScript/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
